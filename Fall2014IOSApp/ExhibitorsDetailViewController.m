@@ -60,7 +60,7 @@
     //set our labels
     nameLabel.text = myExhibitors.name;
     nameLabel.font = [UIFont fontWithName:@"Arial" size:17.0];
-    nameLabel.textColor = [UIColor colorWithRed:22/255.0 green:29/255.0 blue:60/255.0 alpha:1.0];
+    nameLabel.textColor = [UIColor colorWithRed:179/255.0 green:39/255.0 blue:37/255.0 alpha:0.0];
     boothNumberLabel.text = myExhibitors.boothLabel;
     phoneLabel.text = myExhibitors.phone;
     urlLabel.text = myExhibitors.url;

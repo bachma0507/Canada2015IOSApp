@@ -516,32 +516,32 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="owg-uH-rCH">
-                                            <rect key="frame" x="8" y="39" width="230" height="16"/>
+                                            <rect key="frame" x="8" y="38" width="230" height="16"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                             <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                             <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </label>
                                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Ij2-sj-ZP4">
-                                            <rect key="frame" x="7" y="4" width="135" height="20"/>
+                                            <rect key="frame" x="7" y="3" width="135" height="20"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                             <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                             <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </label>
                                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="top" text="Label" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="3gA-di-qJv">
-                                            <rect key="frame" x="8" y="16" width="240" height="20"/>
+                                            <rect key="frame" x="8" y="15" width="240" height="20"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="13"/>
                                             <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                             <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </label>
                                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="900" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="t6V-94-rcV">
-                                            <rect key="frame" x="254" y="31" width="36" height="20"/>
+                                            <rect key="frame" x="254" y="30" width="36" height="20"/>
                                             <color key="backgroundColor" red="0.50196081400000003" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                             <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </label>
                                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Booth" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="uqk-rc-1f7">
-                                            <rect key="frame" x="250" y="11" width="45" height="20"/>
+                                            <rect key="frame" x="250" y="10" width="45" height="20"/>
                                             <fontDescription key="fontDescription" type="boldSystem" pointSize="13"/>
                                             <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                             <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -1732,7 +1732,7 @@
                                 <rect key="frame" x="80" y="234" width="169" height="21"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <state key="normal" title="View Exhibitor Details">
-                                    <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleColor" red="0.98431372549019602" green="0.61568627450980395" blue="0.16470588235294117" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <state key="highlighted">
@@ -1792,7 +1792,7 @@
                                 <rect key="frame" x="15" y="9" width="295" height="44"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" alpha="0.099999999999999686" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="AT9-z0-quo">
@@ -1803,7 +1803,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="0.062745098039215685" green="0.11372549019607843" blue="0.23529411764705882" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.70196078431372544" green="0.15294117647058825" blue="0.14509803921568629" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="gde-Vw-uoY"/>
                     <connections>
@@ -4038,7 +4038,7 @@
         <image name="My-favorite-exhibitors.png" width="50" height="50"/>
         <image name="My-schedule.png" width="50" height="50"/>
         <image name="My-session-notes.png" width="50" height="50"/>
-        <image name="SpeakersCan15.png" width="320" height="568"/>
+        <image name="SpeakersCan15.png" width="50" height="50"/>
         <image name="SponsorsNew.png" width="50" height="50"/>
         <image name="W15_exhibithall_floorplan_icon_iphone.png" width="244" height="156"/>
         <image name="backbutton.png" width="50" height="30"/>

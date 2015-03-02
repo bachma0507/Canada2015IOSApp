@@ -155,7 +155,8 @@
     
      ExhibitorViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     
-    cell.backgroundColor = [UIColor colorWithRed:16/255.0 green:29/255.0 blue:60/255.0 alpha:1.0];
+    //cell.backgroundColor = [UIColor colorWithRed:16/255.0 green:29/255.0 blue:60/255.0 alpha:1.0];
+    cell.backgroundColor = [UIColor colorWithRed:166/255.0 green:8/255.0 blue:33/255.0 alpha:1.0];
     
     if (!cell) {
         cell = [[ExhibitorViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier];
