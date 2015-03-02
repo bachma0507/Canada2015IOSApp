@@ -64,16 +64,16 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb707308149361581</string>
+				<string>fb1404352206538369</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>FacebookAppID</key>
-	<string>707308149361581</string>
+	<string>1404352206538369</string>
 	<key>FacebookDisplayName</key>
-	<string>Winter2015IOSApp</string>
+	<string>Canada2015IOSApp</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
