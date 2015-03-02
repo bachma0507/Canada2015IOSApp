@@ -1,6 +1,6 @@
 //
 //  GooglePlacesViewController.m
-//  Winter2014IOSApp
+//  Canada2015IOSApp
 //
 //  Created by Barry on 10/30/13.
 //  Copyright (c) 2013 BICSI. All rights reserved.

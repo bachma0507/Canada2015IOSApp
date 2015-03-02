@@ -59,7 +59,7 @@ extern int iNotificationCounter;
     self.navigationController.navigationBar.translucent = YES;
     self.navigationController.view.backgroundColor = [UIColor clearColor];
     
-    UIImageView *tempImageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"billow"]];
+    UIImageView *tempImageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"sunrise"]];
     [tempImageView setFrame:self.tableView.frame];
     
     self.tableView.backgroundView = tempImageView;
@@ -72,23 +72,30 @@ extern int iNotificationCounter;
     
     // Simple way to create a user or log in the existing user
     // For your app, you will probably want to present your own login screen
-    PFUser *currentUser = [PFUser currentUser];
-    
-    if (!currentUser) {
-        // Dummy username and password
-        PFUser *user = [PFUser user];
-        user.username = @"Matt";
-        user.password = @"password";
-        user.email = @"Matt@example.com";
-        
-        [user signUpInBackgroundWithBlock:^(BOOL succeeded, NSError *error) {
-            if (error) {
-                // Assume the error is because the user already existed.
-                [PFUser logInWithUsername:@"Matt" password:@"password"];
-            }
-        }];
-    }
+//    PFUser *currentUser = [PFUser currentUser];
+//    
+//    if (!currentUser) {
+//        // Dummy username and password
+//        PFUser *user = [PFUser user];
+//        user.username = @"Matt";
+//        user.password = @"password";
+//        user.email = @"Matt@example.com";
+//        
+//        [user signUpInBackgroundWithBlock:^(BOOL succeeded, NSError *error) {
+//            if (error) {
+//                // Assume the error is because the user already existed.
+//                [PFUser logInWithUsername:@"Matt" password:@"password"];
+//            }
+//        }];
+//    }
 
+//    [PFAnonymousUtils logInWithBlock:^(PFUser *user, NSError *error) {
+//        if (error) {
+//            NSLog(@"Anonymous login failed.");
+//        } else {
+//            NSLog(@"Anonymous user logged in.");
+//        }
+//    }];
     
     
 }

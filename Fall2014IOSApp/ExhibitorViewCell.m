@@ -1,6 +1,6 @@
 //
 //  ExhibitorViewCell.m
-//  Winter2015IOSApp
+//  Canada2015IOSApp
 //
 //  Created by Barry on 10/28/14.
 //  Copyright (c) 2014 BICSI. All rights reserved.

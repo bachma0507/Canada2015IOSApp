@@ -1,6 +1,6 @@
 //
 //  CSchedule.h
-//  Winter2014IOSApp
+//  Canada2015IOSApp
 //
 //  Created by Barry on 12/13/13.
 //  Copyright (c) 2013 BICSI. All rights reserved.

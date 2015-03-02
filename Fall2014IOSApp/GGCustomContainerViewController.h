@@ -1,6 +1,6 @@
 //
 //  GGCustomContainerViewController.h
-//  Winter2015IOSApp
+//  Canada2015IOSApp
 //
 //  Created by Barry on 12/15/14.
 //  Copyright (c) 2014 BICSI. All rights reserved.

@@ -54,7 +54,7 @@
     UIBarButtonItem *backButtonItem = [[UIBarButtonItem alloc] initWithTitle:@" " style:UIBarButtonItemStylePlain target:nil action:nil];
     self.navigationItem.backBarButtonItem = backButtonItem;
     
-    UIImageView *tempImageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"billow"]];
+    UIImageView *tempImageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"sunrise"]];
     [tempImageView setFrame:self.tableView.frame];
     
     self.tableView.backgroundView = tempImageView;
@@ -194,7 +194,7 @@
         AudioServicesCreateSystemSoundID((__bridge_retained CFURLRef)fileURL,&soundID);
         AudioServicesPlaySystemSound(soundID);
         
-        NSString *message = @"You have not added any items to your schedule. Please tap Add to Planner when viewing Schedule or Session details. If you signed up for sessions or other items when you registered, please tap the Import button below to import your sessions.";
+        NSString *message = @"You have not added any items to your schedule. Please tap Add to Schedule when viewing Schedule or Session details. If you signed up for sessions or other items when you registered, please tap the Import button below to import your sessions.";
         UIAlertView *alertView = [[UIAlertView alloc]initWithTitle:@"Notification"
                                                            message:message
                                                           delegate:self

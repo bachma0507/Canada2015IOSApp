@@ -662,7 +662,7 @@ int iNotificationCounter=0;
             
             //NSHTTPURLResponse *response = nil;
             
-            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-WINTER-FL-0215"];
+            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-ON-0415"];
             
             //if ([response statusCode] >= 200 && [response statusCode] < 300){//BEGIN IF RESPONSE STATUSCODE
 
@@ -799,7 +799,7 @@ int iNotificationCounter=0;
             
             //NSHTTPURLResponse *response = nil;
             
-            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-WINTER-FL-0215"];
+            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-ON-0415"];
             
             //if ([response statusCode] >= 200 && [response statusCode] < 300){//BEGIN IF RESPONSE STATUSCODE
 
@@ -920,7 +920,7 @@ int iNotificationCounter=0;
             
             //NSHTTPURLResponse *response = nil;
             
-            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-WINTER-FL-0215"];
+            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-ON-0415"];
             
             //if ([response statusCode] >= 200 && [response statusCode] < 300){//BEGIN IF RESPONSE STATUSCODE
 
@@ -1041,7 +1041,7 @@ int iNotificationCounter=0;
             
             //NSHTTPURLResponse *response = nil;
             
-            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-WINTER-FL-0215"];
+            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-ON-0415"];
             
             //if ([response statusCode] >= 200 && [response statusCode] < 300){//BEGIN IF RESPONSE STATUSCODE
 
@@ -1162,7 +1162,7 @@ int iNotificationCounter=0;
             
             //NSHTTPURLResponse *response = nil;
             
-            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-WINTER-FL-0215"];
+            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-ON-0415"];
             
             //if ([response statusCode] >= 200 && [response statusCode] < 300){//BEGIN IF RESPONSE STATUSCODE
 
@@ -1282,7 +1282,7 @@ int iNotificationCounter=0;
             
             //NSHTTPURLResponse *response = nil;
             
-            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-WINTER-FL-0215"];
+            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-ON-0415"];
             
             //if ([response statusCode] >= 200 && [response statusCode] < 300){//BEGIN IF RESPONSE STATUSCODE
 
@@ -1408,7 +1408,7 @@ int iNotificationCounter=0;
             //NSHTTPURLResponse *response = nil;
             
             //NSURL *url = [NSURL URLWithString:@"http://www.speedyreference.com/bicsi/convertcsv1.json"];
-            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-WINTER-FL-0215"];
+            NSURL *url = [NSURL URLWithString:@"https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-ON-0415"];
             //NSURL *url = [NSURL URLWithString:@"http://speedyreference.com/bicsi/testtrunc3.json"];
             
             //if ([response statusCode] >= 200 && [response statusCode] < 300){//BEGIN IF RESPONSE STATUSCODE

@@ -589,7 +589,7 @@
                 //        NSString * emailNoteSubject = [[NSString alloc] initWithFormat:@"Email BICSI Tech Support"];
                 
                 NSString * emailNoteBody = [[NSString alloc] initWithFormat:@"Enter your comments"];
-                NSString * emailNoteSubject = [[NSString alloc] initWithFormat:@"My Comments: 2015 Winter Conference"];
+                NSString * emailNoteSubject = [[NSString alloc] initWithFormat:@"My Comments: 2015 Canada Conference"];
                 
                 
                 // Email Subject
@@ -716,7 +716,7 @@
                     //        NSString * emailNoteSubject = [[NSString alloc] initWithFormat:@"Email BICSI Tech Support"];
                     
                     NSString * emailNoteBody = [[NSString alloc] initWithFormat:@"Enter your comments"];
-                    NSString * emailNoteSubject = [[NSString alloc] initWithFormat:@"My Comments: 2015 Winter Conference"];
+                    NSString * emailNoteSubject = [[NSString alloc] initWithFormat:@"My Comments: 2015 Canada Conference"];
                     
                     
                     // Email Subject
