@@ -178,7 +178,7 @@
     cell.detailTextLabel.font = [UIFont fontWithName:@"Arial" size:13.0];
     cell.detailTextLabel.textColor = [UIColor whiteColor];
     
-    cell.backgroundColor = [UIColor colorWithRed:16/255.0 green:29/255.0 blue:60/255.0 alpha:1.0];
+    cell.backgroundColor = [UIColor colorWithRed:166/255.0 green:8/255.0 blue:33/255.0 alpha:1.0];
     
     // Configure the cell...
     

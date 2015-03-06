@@ -1964,7 +1964,7 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="9Dk-gF-114">
-                                                    <rect key="frame" x="272" y="43" width="20" height="20"/>
+                                                    <rect key="frame" x="272" y="63" width="20" height="20"/>
                                                 </imageView>
                                                 <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="qRi-VS-LVV">
                                                     <rect key="frame" x="15" y="17" width="27" height="16"/>
