@@ -384,7 +384,7 @@
                                 <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
                             </textField>
                         </subviews>
-                        <color key="backgroundColor" red="0.062745098040000002" green="0.1137254902" blue="0.23529411759999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.70196078431372544" green="0.15294117647058825" blue="0.14509803921568626" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <extendedEdge key="edgesForExtendedLayout" top="YES"/>
                     <navigationItem key="navigationItem" title="Sign Up" id="l7E-bR-Pnx"/>
@@ -3463,11 +3463,11 @@
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
         <segue reference="xdd-lt-WaI"/>
-        <segue reference="Gmd-RU-haQ"/>
+        <segue reference="SFt-NY-1lL"/>
         <segue reference="muH-WA-dU8"/>
-        <segue reference="SDK-bn-4vP"/>
+        <segue reference="Wll-oD-v1N"/>
+        <segue reference="AV2-4O-mek"/>
+        <segue reference="llJ-MJ-Tf6"/>
         <segue reference="xWE-49-eAT"/>
-        <segue reference="fPP-35-TOg"/>
-        <segue reference="uaS-LK-lnw"/>
     </inferredMetricsTieBreakers>
 </document>
