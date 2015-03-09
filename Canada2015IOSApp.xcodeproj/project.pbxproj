@@ -382,6 +382,8 @@
 		4CA334D71AAA84DB00D09FAE /* my_schedule_C15.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CA334961AAA84DB00D09FAE /* my_schedule_C15.png */; };
 		4CA334D81AAA84DB00D09FAE /* my_session_notes_C15.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CA334971AAA84DB00D09FAE /* my_session_notes_C15.png */; };
 		4CA334D91AAA84DB00D09FAE /* sponsors_C15.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CA334981AAA84DB00D09FAE /* sponsors_C15.png */; };
+		4CA334E01AADDEC000D09FAE /* C15_exhibithall_floorplan_icon_ipad2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CA334DE1AADDEC000D09FAE /* C15_exhibithall_floorplan_icon_ipad2.png */; };
+		4CA334E11AADDEC000D09FAE /* W15_exhibithall_floorplan_icon_iphone2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CA334DF1AADDEC000D09FAE /* W15_exhibithall_floorplan_icon_iphone2.png */; };
 		4CA605491772108300EC36C2 /* ExhibitHallScheduleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CA605481772108300EC36C2 /* ExhibitHallScheduleViewController.m */; };
 		4CA6054C1772126A00EC36C2 /* ExhibitHallScheduleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CA6054B1772126A00EC36C2 /* ExhibitHallScheduleCell.m */; };
 		4CA7023D175FCB0600820E7B /* PlistViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CA7023C175FCB0600820E7B /* PlistViewController.m */; };
@@ -1101,6 +1103,8 @@
 		4CA334961AAA84DB00D09FAE /* my_schedule_C15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = my_schedule_C15.png; sourceTree = "<group>"; };
 		4CA334971AAA84DB00D09FAE /* my_session_notes_C15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = my_session_notes_C15.png; sourceTree = "<group>"; };
 		4CA334981AAA84DB00D09FAE /* sponsors_C15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sponsors_C15.png; sourceTree = "<group>"; };
+		4CA334DE1AADDEC000D09FAE /* C15_exhibithall_floorplan_icon_ipad2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C15_exhibithall_floorplan_icon_ipad2.png; sourceTree = "<group>"; };
+		4CA334DF1AADDEC000D09FAE /* W15_exhibithall_floorplan_icon_iphone2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = W15_exhibithall_floorplan_icon_iphone2.png; sourceTree = "<group>"; };
 		4CA605471772108300EC36C2 /* ExhibitHallScheduleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExhibitHallScheduleViewController.h; sourceTree = "<group>"; };
 		4CA605481772108300EC36C2 /* ExhibitHallScheduleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExhibitHallScheduleViewController.m; sourceTree = "<group>"; };
 		4CA6054A1772126A00EC36C2 /* ExhibitHallScheduleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExhibitHallScheduleCell.h; sourceTree = "<group>"; };
@@ -2400,6 +2404,8 @@
 		4CB8E24A1AA41E0D00F8638A /* Canada_2015_images */ = {
 			isa = PBXGroup;
 			children = (
+				4CA334DE1AADDEC000D09FAE /* C15_exhibithall_floorplan_icon_ipad2.png */,
+				4CA334DF1AADDEC000D09FAE /* W15_exhibithall_floorplan_icon_iphone2.png */,
 				4CA334521AAA84DB00D09FAE /* 150_C15 */,
 				4CA3345D1AAA84DB00D09FAE /* 240_C15 */,
 				4CA334691AAA84DB00D09FAE /* 120_C15 */,
@@ -3165,6 +3171,7 @@
 				4C9812051A3245880034E338 /* overlay5-ipad@2x.png in Resources */,
 				4C7EC2711779DEF200A73C8D /* facebookpost@2x.png in Resources */,
 				4C9775FF19F05E1100A1C460 /* button-orange@2x.png in Resources */,
+				4CA334E11AADDEC000D09FAE /* W15_exhibithall_floorplan_icon_iphone2.png in Resources */,
 				4C9812061A3245880034E338 /* overlay5-ipad.png in Resources */,
 				4CCFD9721A01677C00464E3D /* transparent.png in Resources */,
 				4C3F577319EF62FF00998BBA /* scenery5@3x.png in Resources */,
@@ -3240,6 +3247,7 @@
 				4C576113178AF65600DB6824 /* view_website_icon@2x.png in Resources */,
 				4C9B1E2F19E34387007E0F51 /* JSQMessagesTypingIndicatorFooterView.xib in Resources */,
 				4C9B1E2619E34387007E0F51 /* JSQMessagesCollectionViewCellOutgoing.xib in Resources */,
+				4CA334E01AADDEC000D09FAE /* C15_exhibithall_floorplan_icon_ipad2.png in Resources */,
 				4C9B1E0819E34387007E0F51 /* bubble_stroked_tailless@2x.png in Resources */,
 				4CA334D61AAA84DB00D09FAE /* my_favorite_exhibitors_C15.png in Resources */,
 				4C246212178C772D00F0165B /* web.css in Resources */,

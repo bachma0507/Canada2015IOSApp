@@ -46,38 +46,6 @@
             </objects>
             <point key="canvasLocation" x="5549" y="1528"/>
         </scene>
-        <!--Session Rooms Floor Map-->
-        <scene sceneID="OB2-yv-tQH">
-            <objects>
-                <viewController id="jZU-sb-M1s" customClass="EntranceHallFloorPlanViewController" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="otT-x9-5vK">
-                        <rect key="frame" x="0.0" y="0.0" width="768" height="975"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <subviews>
-                            <webView contentMode="scaleToFill" scalesPageToFit="YES" id="W76-yL-hlO">
-                                <rect key="frame" x="0.0" y="0.0" width="768" height="975"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                                <color key="backgroundColor" red="0.062745098040000002" green="0.1137254902" blue="0.23529411759999999" alpha="1" colorSpace="calibratedRGB"/>
-                            </webView>
-                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" animating="YES" style="whiteLarge" id="3ND-tM-qJY">
-                                <rect key="frame" x="366" y="461" width="37" height="37"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="color" red="0.0" green="0.40000000000000002" blue="0.80000000000000004" alpha="1" colorSpace="calibratedRGB"/>
-                            </activityIndicatorView>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                    </view>
-                    <extendedEdge key="edgesForExtendedLayout" top="YES"/>
-                    <navigationItem key="navigationItem" title="Session Rooms Floor Map" id="O6z-DH-M5b"/>
-                    <connections>
-                        <outlet property="activity" destination="3ND-tM-qJY" id="oPQ-AX-3SI"/>
-                        <outlet property="webView" destination="W76-yL-hlO" id="xL8-uF-RM0"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="6aP-hZ-7bB" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-2608" y="3650"/>
-        </scene>
         <!--App View Controller-->
         <scene sceneID="MI5-U1-aud">
             <objects>
@@ -2108,18 +2076,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="768" height="975"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="UGE-vx-MpO">
-                                <rect key="frame" x="252" y="158" width="265" height="69"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                                <connections>
-                                    <segue destination="jZU-sb-M1s" kind="push" id="ZL9-KA-lE0"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="X69-h5-tD0">
-                                <rect key="frame" x="161" y="384" width="446" height="247"/>
+                                <rect key="frame" x="161" y="345" width="446" height="446"/>
                                 <state key="normal">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -2127,14 +2085,14 @@
                                     <segue destination="L9h-9p-2y1" kind="push" id="ZsS-yn-M2d"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tap on Exhibit Hall Floor Map Below" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="PVK-SZ-w4t">
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tap on Floor Map icon below" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="PVK-SZ-w4t">
                                 <rect key="frame" x="232" y="295" width="304" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="W15_exhibithall_floorplan_icon_ipad.png" id="ef6-5c-weu">
-                                <rect key="frame" x="161" y="345" width="446" height="286"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="C15_exhibithall_floorplan_icon_ipad2.png" id="ef6-5c-weu">
+                                <rect key="frame" x="161" y="345" width="446" height="446"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.70196078431372544" green="0.15294117647058825" blue="0.14509803921568626" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -3423,8 +3381,8 @@
         </scene>
     </scenes>
     <resources>
+        <image name="C15_exhibithall_floorplan_icon_ipad2.png" width="446" height="446"/>
         <image name="SpeakersCan15-ipad.png" width="120" height="120"/>
-        <image name="W15_exhibithall_floorplan_icon_ipad.png" width="446" height="286"/>
         <image name="backbutton-default.png" width="50" height="30"/>
         <image name="backbutton.png" width="50" height="30"/>
         <image name="button-orange-pressed.png" width="143" height="41"/>
